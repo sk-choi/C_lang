@@ -42,5 +42,14 @@
     <ClCompile Include="const를_사용한_변수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="scanf함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_함수_연속입력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자와_문자열_입력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

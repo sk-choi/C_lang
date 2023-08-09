@@ -15,22 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="if문.c">
+    <ClCompile Include="while문.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="if_else문.c">
+    <ClCompile Include="for문.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="if_if_else_else문.c">
+    <ClCompile Include="do_while문.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="if문_중첩.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="if_중첩문에서_중괄호가_필요한_경우.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="switch_case문.c">
+    <ClCompile Include="중첩_반복문_별_출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
