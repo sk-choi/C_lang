@@ -27,5 +27,14 @@
     <ClCompile Include="중첩_반복문_별_출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="구구단.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="break.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="continue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
