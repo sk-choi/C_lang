@@ -27,5 +27,20 @@
     <ClCompile Include="const를_사용한_포인터.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="주소와_포인터의_크기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="허용되지_않는_포인터의_대입.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터를_사용한_두_변수의_값_교환.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="다른_함수의_변수_사용하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="변수의_값을_인수로_주는_경우.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
