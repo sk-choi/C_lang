@@ -60,5 +60,20 @@
     <ClCompile Include="문자열_길이를_계산하는_strlen_함수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="strcmp_strncmp_함수_비교.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strcpy_함수_만들기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strcat함수_만들기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strlen_함수_만들기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strcmp_함수_만들기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

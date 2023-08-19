@@ -20,7 +20,7 @@ int main(void)
 	else
 		resp = str2; // 두 번째 배열이 긴 경우 선택
 	printf("이름이 긴 과일은 : %s\n", resp); // 선택된 배열의 문자열 출력
-
+	
 	return 0;
 }
 
