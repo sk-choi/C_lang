@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="구조체_연습.c">
+    <ClCompile Include="포인터와_이중포인터의_관계.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="구조체_연습02.c">
+    <ClCompile Include="이중_포인터를_사용한_포인터_교환.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

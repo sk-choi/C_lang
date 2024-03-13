@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3a4f74ca-b19e-423b-a0f3-e76c948abc0e}</ProjectGuid>
-    <RootNamespace>구조체</RootNamespace>
+    <ProjectGuid>{3b8ebf19-168e-405f-bd57-005a66a92879}</ProjectGuid>
+    <RootNamespace>응용포인터</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,10 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="구조체_연습.c">
+    <ClCompile Include="이중_포인터를_사용한_포인터_교환.c" />
+    <ClCompile Include="포인터와_이중포인터의_관계.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="구조체_연습02.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
