@@ -21,5 +21,26 @@
     <ClCompile Include="이중_포인터를_사용한_포인터_교환.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_배열의_값을_출력하는_함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="주소로_쓰이는_배열명과_배열의_주소_비교.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원_배열과_배열_포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원_배열의_값을_출력하는_함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수_포인터와_void_포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수_포인터의_활용(원하는_함수_호출).c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="void_포인터의_사용.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
