@@ -24,5 +24,14 @@
     <ClCompile Include="calloc_and_realloc.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3개의_문자열을_저장하기_위한_동적할당.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적할당영역의_문자열을_함수로_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main함수의_명령행_인수_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
