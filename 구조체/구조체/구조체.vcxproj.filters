@@ -21,5 +21,8 @@
     <ClCompile Include="구조체_연습02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="구조체를_선언하고_멤버를_사용하는_방법.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
